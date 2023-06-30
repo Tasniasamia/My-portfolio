@@ -46,4 +46,4 @@ const Banner = () => {
   </div>;
 };
 
-export
+export default Banner;
