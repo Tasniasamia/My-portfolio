@@ -20,7 +20,7 @@ const Banner = () => {
   <motion.p className='pb-8 max-w-lg mx-auto lg:mx-0'variants={fadeIn('up',0.5)}initial="hidden"whileInView={"show"} viewport={{once:"false", amount: 0.7}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, enim! Velit hic odit tempora voluptas, quam quia quae nostrum obcaecati?</motion.p>
 <motion.div className='flex  max-w-max mb-8 items-center  justify-center'variants={fadeIn('up',0.6)}initial="hidden"whileInView={"show"} viewport={{once:"false", amount: 0.7}}>
 
- <button className='btn btn-lg me-4'><a href="Mern_Stack_Resume_of_(Tasnia Sharin)-1.pdf" download="myfile.pdf"  >Download Resume</a></button> 
+ <button className='btn btn-lg me-4'><a href="My_Resume_(TASNIA_SHARIN).pdf" download="myfile.pdf"  >Download Resume</a></button> 
   <a href="#"className='text-gradient btn-link'>MY Portfolio</a></motion.div>
 
 <motion.div className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 'variants={fadeIn('up',0.7)}initial="hidden"whileInView={"show"} viewport={{once:"false", amount: 0.7}}>

@@ -43,7 +43,7 @@ const About = () => {
 
 <div className='  max-w-max my-8  '>
 
-<button className='btn btn-lg me-4'><a href="Mern_Stack_Resume_of_(Tasnia Sharin)-1.pdf" download="myfile.pdf"  >Download Resume</a></button> 
+<button className='btn btn-lg me-4'><a href="My_Resume_(TASNIA_SHARIN).pdf" download="myfile.pdf"  >Download Resume</a></button> 
   <a href="#"className='text-gradient btn-link'>MY Portfolio</a></div>
 
 </div>
